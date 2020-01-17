@@ -1,1 +1,1 @@
-# testworkshop
+Test repo for introductory GitHub workshop
