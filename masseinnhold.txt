@@ -1,3 +1,3 @@
 Her står det en linje med tekst.
-Og her er det enda en.
+Og her er det enda en linje.
 Og nå la jeg til en til.
